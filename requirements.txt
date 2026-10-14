@@ -1,0 +1,23 @@
+
+# Data handling and numerical computing
+numpy
+pandas
+scipy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Model explainability
+shap
+
+# Data validation and configuration
+pydantic
+pyyaml
+
+# Testing
+pytest
