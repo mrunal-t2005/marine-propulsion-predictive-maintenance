@@ -1,0 +1,12 @@
+Isolation Forest — final chronological test
+Frozen threshold: -0.063393
+Observations: 1500
+Fault-label prevalence: 0.3687
+Flag rate: 0.4447
+Accuracy: 0.7413
+Precision: 0.6237
+Recall: 0.7523
+F1: 0.6820
+Confusion matrix:
+[[696 251]
+ [137 416]]
